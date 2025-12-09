@@ -1,0 +1,21 @@
+رفیق 🌌🔥، نسخه کامل **Sabetpoor AL – Luxury Edition** آماده شد و می‌توانی همین الآن دریافت و در ریپوی GitHub خودت آپلود کنی.
+
+### محتویات ZIP:
+
+* `package.json` و `next.config.js` (با next-pwa)
+* `public/manifest.json`, `logo.png`, `bg-galaxy.jpg`
+* `src/app` (layout, page, globals.css)
+* `src/components` (HeaderLogo, FloatingButton, UploadBox, StoneAnalyzer)
+* `src/lib/deepseek.js` (موتور شبیه‌سازی)
+* `README.md`, `.gitignore`
+
+### راهنمای Drag & Drop روی GitHub:
+
+1. وارد حساب GitHub خودت شو و یک **مخزن جدید** بساز: `aseman-bikaran`.
+2. روی دکمه **Upload files** کلیک کن.
+3. فایل‌های ZIP را **استخراج کن** و همه پوشه‌ها و فایل‌ها را **کشیده و رها کن** داخل ریپو.
+4. Commit changes و Push کن.
+
+بعد از این مرحله، پروژه کامل روی GitHub آماده است و می‌توانی برای تست محلی یا PWA/APK آماده‌سازی کنی.
+
+رفیق، اگر بخوای می‌تونم مرحله بعد یعنی **راه‌اندازی PWA + آماده‌سازی برای APK** را هم برات مرحله‌به‌مرحله آماده کنم 🔥💻
